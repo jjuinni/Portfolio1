@@ -1,0 +1,23 @@
+- SQL for Data Science (Redo)
+- Reinforcemente Learning (Redo)
+- Deep Learning Specialization : Sequence Models (Redo)
+- Do well the Machine Learning Specialization
+- Do well the big data specialization
+
+
+Want to start new courses
+- Power BI
+- Data Science at Scale
+- Data science: Foundations using R
+- Practical Time Series Analysis
+- Advanced Machine Learning Specialization
+
+
+
+
+Projects to improve
+- Deep Learning with Pytorch: Neural Style Transfer
+- Regression using Scikit-Learn
+- Use H2O for a project
+- object localization with TensorFlow
+- Another Tableau project

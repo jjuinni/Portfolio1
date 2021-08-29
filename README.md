@@ -4,8 +4,7 @@ Repository containing my portfolio of data science projects presented in the for
 ## Content
 
 ### Machine Learning
-- [Flower Image Recognition](https://github.com/jjuinni/Portfolio/blob/master/flower-recognition-resnet50.ipynb) : Implementation and training ResNet50 network architecture from scratch (without pre-trained library) for image classification using Keras. [Article](https://jjuinni.medium.com/cnn-architecture-from-scratch-resnet50-with-keras-4414539521d1) deployed for an overview.
-- [Car Accident Severity](https://github.com/jjuinni/Portfolio/blob/master/Car_accident_severity_ibmcapstone.ipynb) : Analysis of Seattle Traffic Dataset to investigate severity of accidents given the weather and the road conditions using the CRIPS-DM methodology. 
+- [Flower Image Recognition](https://github.com/jjuinni/Portfolio/blob/master/flower-recognition-resnet50.ipynb) : Implementation and training ResNet50 network architecture from scratch (without pre-trained library) for image classification using Keras. [Article](https://jjuinni.medium.com/cnn-architecture-from-scratch-resnet50-with-keras-4414539521d1) deployed for an overview. 
 - [Wiki Profile Retrieval](https://github.com/jjuinni/Portfolio/blob/master/Retrieving%20Similar%20Profiles.ipynb) : A NLP project with analysis of the Wikipedia People Dataset using Nearest Neighbors Search to find similar profiles(articles) relevant to a person of interest applying different notions of similarity for text retrieval.
 
 	_Tools: Scikit-Learn, Numpy, Turicreate, Keras_
@@ -28,6 +27,7 @@ Repository containing my portfolio of data science projects presented in the for
 
 ### Others
 - [Classic Titanic Dataset](https://github.com/jjuinni/Portfolio/blob/master/titanic-an-approach-to-top-12.ipynb) : From EDA to predictions in 8 steps including data cleaning, feature engineering, comparison of 6 popular models in classification problems, hyperparametrization, cross-validation and error analysis.
+- [Car Accident Severity](https://github.com/jjuinni/Portfolio/blob/master/Car_accident_severity_ibmcapstone.ipynb) : Analysis of Seattle Traffic Dataset to investigate severity of accidents given the weather and the road conditions using the CRIPS-DM methodology.
 
 	_Tools: Scikit-Learn, Pandas, Seaborn, Matplotlib_
 
